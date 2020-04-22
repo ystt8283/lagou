@@ -1,0 +1,5 @@
+未添加@Security注解的地址
+http://localhost:8080/demo/testSecurity?name=sss
+
+添加@Security注解的地址
+http://localhost:8080/demo/query?name=zhangsan
